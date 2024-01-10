@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+
+body {
+    background-color: rgb(247, 245, 103);
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#quad {
+    background: rgb(22, 20, 20);
+    border: 3px solid rgb(22, 20, 20);
+    width: 430px;
+    height: 430px;
+    margin: 0 auto;
+    top: 50%;
+    bottom: 50%;
+    padding: 30px;
+    margin-top: 190px;
+    color: white
+}
+
+#input-num{
+    justify-content: center;
+    display: grid;
+    padding-top: 20px;
+}
+
+#operations{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input[type="text"] {
+	height: 40px;
+    font-size: 30px ;
+    width: 250px;
+}
+
+input[type="radio"] {
+    width: 50px;
+    height: 25px;
+}
+
+b {
+    font-size: 30px;
+    display: flex;
+    justify-items: center;
+}
+
+
+#quad h3 {
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    
+}
+
+#quad p {
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+#center-btn {
+    justify-content: center;
+    display: flex;
+    margin-top: 23px;
+}
+
+#quad button {
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+}
