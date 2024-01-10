@@ -8,7 +8,7 @@ function conta() {
     } else if (document.getElementById('sub').checked) {
         total = num1 - num2
     } else if (document.getElementById('mult').checked) {
-        total = num1 + num2
+        total = num1 * num2
     } else { 
         total = num1 / num2
     } 
