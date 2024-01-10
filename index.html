@@ -14,14 +14,22 @@
             <br> 
         <input type="text" name="num-2" id="num-2">  
             <br> 
-        <button type="submit" id="btn"> Calcular </button>
+                <input checked id="soma" type="radio" value="add" name="operacao"> <b> + </b>
+            <br>   
+                <input id="sub" type="radio" value="add" name="operacao"> <b> - </b>
             <br>
-        <input type="radio" id="soma">   
-
+                <input id="mult" type="radio" value="add" name="operacao"> <b> * </b>
+            <br>
+                <input id="divide" type="radio" value="add" name="operacao"> <b> / </b>
+            <br>         
+        
+        <button onclick="conta()" type="button" id="btn"> Calcular </button>
+            <br>
+                <h1 id="Resultado"></h1>
     
     </div>
     
 
-
+    <script src="script.js"> </script>
 </body>
 </html>
