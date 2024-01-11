@@ -1,3 +1,5 @@
+[Bem-vindo](#calculadora-simples) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Como utilizar?](#como-utilizar) | [Funcionamento](#funcionamento) 
+
 # Calculadora Simples
 
 Neste repositório você encontrará todos os arquivos que utilizei para a criação de uma simples calculadora utilizando JavaScript na parte lógica.
@@ -27,6 +29,8 @@ Após isso, ele deverá escolher qual operação usar, nesta calculadora há 4:
 * <p> (/) Divisão </p>
 
 Depois de escolher a operação, basta clicar no calcular e ver o resultado da conta :)
+
+## Funcionamento
 
 ![](/style/new_calculator_operating.gif) 
 
