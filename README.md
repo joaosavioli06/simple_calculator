@@ -28,7 +28,7 @@ Após isso, ele deverá escolher qual operação usar, nesta calculadora há 4:
 
 Depois de escolher a operação, basta clicar no calcular e ver o resultado da conta :)
 
-![](/style/calculator_operating.gif) 
+![](/style/new_calculator_operating.gif) 
 
 
 
