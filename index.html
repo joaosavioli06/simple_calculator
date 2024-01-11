@@ -9,32 +9,39 @@
     <title>Calculadora Simples</title>
 </head>
 <body>
+
     <div id="quad"> 
        <p> Calculadora Simples</p>
 
-     <div id="input-num"> 
-        <input type="text" name="num-1" id="num-1" placeholder="Número 1">  
-        <input type="text" name="num-2" id="num-2" placeholder="Número 2">  
-            <br> 
-    </div>
+            <div id="input-num"> 
 
-    <div id="operations"> 
+            <input type="text" name="num-1" id="num-1" placeholder="Número 1">  
+            <input type="text" name="num-2" id="num-2" placeholder="Número 2"> 
+            
+            <br> 
+
+            </div>
+
+                <div id="operations"> 
                 <input checked id="soma" type="radio" value="add" name="operacao"><b>+</b>
 
                 <input id="sub" type="radio" value="add" name="operacao"> <b> - </b>
             
                 <input id="mult" type="radio" value="add" name="operacao"> <b> * </b>
         
+                
                 <input id="divide" type="radio" value="add" name="operacao"> <b> / </b>
-    </div>
-            <br>         
+
+            </div>
+
+             <br>         
         
      
 
-        <div id='center-btn'> <button onclick="conta()"  type="button" class="btn btn-outline-warning" id="btn"> Calcular </button> </div>
+                <div id='center-btn'> <button onclick="conta()"  type="button" class="btn btn-outline-warning" id="btn"> Calcular </button> </div>
         
+                <br>
 
-            <br>
                 <h3 id="Resultado"></h3>
     
     </div>
