@@ -82,7 +82,7 @@ b {
 
 @media screen and (max-width: 680px) {
     #quad {
-        width: 500px;
-        height: 520px;
+        width: 360px;
+        height: 550px;
     }
 }
