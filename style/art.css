@@ -10,7 +10,6 @@ body {
 
 * {
     font-family: 'Ubuntu', sans-serif;
-    
 }
 
 #quad {
@@ -18,7 +17,6 @@ body {
     border: 3px solid rgb(22, 20, 20);
     width: 600px;
     height: 450px;
-    
     padding: 30px;
     color: white;
 }
@@ -82,3 +80,9 @@ b {
     font-size: 25px;
 }
 
+@media screen and (max-width: 680px) {
+    #quad {
+        width: 500px;
+        height: 520px;
+    }
+}
