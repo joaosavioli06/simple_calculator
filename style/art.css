@@ -97,8 +97,9 @@ b {
     }
 
     #quad p {
-        justify-content: center;
         display: flex;
-        font-size: 35px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
 }
