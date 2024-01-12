@@ -91,9 +91,7 @@ b {
     }
 
     #operations{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        flex-direction: row;
     }
 
     #quad p {
