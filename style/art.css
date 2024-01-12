@@ -41,13 +41,13 @@ input[type="text"] {
 }
 
 input[type="radio"] {
-    width: 50px;
+    width: 30px;
     height: 25px;
-    
 }
 
 b {
     font-size: 30px;
+    padding: 10px;
 }
 
 
