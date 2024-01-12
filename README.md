@@ -37,6 +37,6 @@ Depois de escolher a operação, basta clicar no calcular e ver o resultado da c
 ![](/style/new_calculator_operating.gif) 
 
 ## Atribuições de Imagens
-<p> ícone do website: </p> <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Pixel perfect - Flaticon</a>
+<p> Ícone do website: </p> <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Pixel perfect - Flaticon</a>
 
 
