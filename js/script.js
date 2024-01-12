@@ -13,5 +13,5 @@ function conta() {
         total = num1 / num2
     } 
 
-    document.getElementById('Resultado').innerHTML = 'O resultado é: ' + String(total)
+    document.getElementById('Resultado').innerText = 'O resultado é: ' + String(total)
 }
