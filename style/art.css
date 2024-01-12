@@ -85,4 +85,20 @@ b {
         width: 360px;
         height: 550px;
     }
+
+    input[type="text"]{
+        height: 55px;
+    }
+
+    #operations{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #quad p {
+        justify-content: center;
+        display: flex;
+        font-size: 35px;
+    }
 }
