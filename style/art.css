@@ -110,5 +110,9 @@ b {
     input[type="text"]{
         height: 65px;
     }
+
+    body {
+        background-color: rgb(0, 138, 0);
+    }
 }
     
