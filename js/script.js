@@ -9,9 +9,13 @@ function conta() {
         total = num1 - num2
     } else if (document.getElementById('mult').checked) {
         total = num1 * num2
-    } else { 
-        total = num1 / num2
+    } else if (document.getElementById('divide').checked) {
+        total = num1 / num2 
+        if (document.getElementById('divide').checked && num2 == 0) {
+        document.getElementById('Resultado').innerText = 'Não é possível realizar divisão por zero';
+        return
     } 
+    }
 
     document.getElementById('Resultado').innerText = 'O resultado é: ' + String(total)
 }
