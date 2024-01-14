@@ -82,7 +82,7 @@ b {
 @media (min-width: 481px) and (max-width: 767px) {
     #quad {
         width: 360px;
-        height: 600px;
+        height: 680px;
     }
 
     input[type="text"]{
