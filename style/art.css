@@ -79,9 +79,9 @@ b {
     font-size: 25px;
 }
 
-@media (min-width: 481px) and (max-width: 767px) {
+@media (max-width: 480px) {
     #quad {
-        width: 300px;
+        width: 320px;
         height: 620px;
     }
 
