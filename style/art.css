@@ -81,16 +81,12 @@ b {
 
 @media (min-width: 481px) and (max-width: 767px) {
     #quad {
-        width: 360px;
-        height: 680px;
+        width: 300px;
+        height: 620px;
     }
 
     input[type="text"]{
         height: 55px;
-    }
-
-    #operations{
-        flex-direction: row;
     }
 
     #quad p {
