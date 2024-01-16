@@ -19,7 +19,7 @@ Este projeto foi feito com a finalidade de praticar conceitos novos de JavaScrip
 
 ## Como utilizar?
 
-![](/style/new_project_picture.png) 
+![](/style/new_picture.png) 
 
 Para utilizar a calculadora, é necessário que o usuário escolha dois números e digite dentro das caixas input. 
 
@@ -34,7 +34,11 @@ Depois de escolher a operação, basta clicar no calcular e ver o resultado da c
 
 ## Funcionamento
 
-![](/style/new_calculator_operating.gif) 
+![](/style/calculator_operating.gif) 
+
+## Visão Mobile
+
+![](/style/mobile.png)
 
 ## Atribuições de Imagens
 <p> Ícone do website: </p> <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Calculator icons created by Pixel perfect - Flaticon</a>
