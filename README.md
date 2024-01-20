@@ -1,6 +1,6 @@
 ![](/style//imagem2.png) 
 
-[Bem-vindo](#calculadora-simples) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Como utilizar?](#como-utilizar) | [Funcionamento](#funcionamento) 
+[Bem-vindo](#calculadora-simples) | [Tecnologias Utilizadas](#tecnologias-utilizadas) | [Como utilizar?](#como-utilizar) | [Funcionamento](#funcionamento) | [Visão Mobile](#visão-mobile)
 
 # Calculadora Simples
 
