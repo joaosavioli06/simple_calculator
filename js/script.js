@@ -1,7 +1,13 @@
 function conta() {
+
     num1 = Number(document.getElementById('num-1').value)
     num2 = Number(document.getElementById('num-2').value)
     total = 0
+
+    if (isNaN(num1) || isNaN (num2)) {
+        document.getElementById('Resultado').innerText = 'Digite apenas números'
+        return
+    }
 
     if (document.getElementById('soma').checked) {
         total = num1 + num2
@@ -15,7 +21,7 @@ function conta() {
         document.getElementById('Resultado').innerText = 'Não é possível realizar divisão por zero';
         return
     } 
-    }
+    } 
 
     document.getElementById('Resultado').innerText = 'O resultado é: ' + String(total)
 }
